@@ -1,5 +1,1 @@
-[
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
-]
+[{"file":"1-cover-roadmap.jpg","note":"Cover: roadmap, progress bar, filters, checklist with earned trophies","path":"/?spoilers=off","viewport":{"height":800,"width":1280}},{"file":"2-guide-open.jpg","note":"A trophy guide open with its sources: Positive Mental Attitude, the missable one","path":"/?spoilers=off&trophy=positive-mental-attitude","viewport":{"height":800,"width":1280}},{"file":"3-checklist.jpg","note":"Checklist scrolled to the collectibles and activities, grades and flags visible","path":"/?spoilers=off","viewport":{"height":800,"width":1280}},{"file":"4-spoiler-mode.jpg","note":"Spoiler mode on: story trophies hidden until earned","path":"/?spoilers=on","viewport":{"height":800,"width":1280}}]
